@@ -18,7 +18,7 @@ public class HelloServlet extends HttpServlet {
         resp.setContentType("text/html;charset=UTF-8");
         PrintWriter out = resp.getWriter();
         out.println("<!DOCTYPE html><html><body>");
-        out.println("<h1>Witaj w Bibliotece!</h1>");
+        out.println("<h1>Witaj w Skarbonce!</h1>");
         out.println("<p>To jest odpowiedź na żądanie GET.</p>");
         out.println("<a href='index.html'>Powrót</a>");
         out.println("</body></html>");

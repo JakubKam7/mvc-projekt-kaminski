@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.merito</groupId>
-    <artifactId>biblioteka</artifactId>
+    <artifactId>skarbonka</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
@@ -37,7 +37,7 @@
     </dependencies>
 
     <build>
-        <finalName>biblioteka</finalName>
+        <finalName>skarbonka</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
